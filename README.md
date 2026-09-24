@@ -1,0 +1,2 @@
+# NEXUS-SCRIPTER
+Мой скрипт
